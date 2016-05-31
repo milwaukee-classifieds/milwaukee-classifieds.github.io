@@ -1,5 +1,0 @@
-// HACK THE PLANET
-
-$(function() {
-	
-});
